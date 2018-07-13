@@ -1,0 +1,16 @@
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+*.pyc
+pytestdebug.log
+__pycache__
+.vscode
+
+# ansible specific
+.galaxy_install_info
